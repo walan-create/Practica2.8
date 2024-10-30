@@ -1,6 +1,10 @@
-hl{
+h1 {
+    font-family: sans-serif;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
 
-font-family: sans-serif;
-border-bottom: lpx solid black;
-
+p {
+    text-align: center;
+    font-family: sans-serif;
 }
